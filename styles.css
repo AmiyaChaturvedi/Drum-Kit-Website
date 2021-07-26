@@ -19,6 +19,10 @@ a {
     color: rgb(16, 230, 230);
 }
 
+a:hover {
+    color: rgb(255, 255, 255);
+}
+
 .w {
     background-image: url(images/tom1.png);
 }
